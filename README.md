@@ -11,4 +11,5 @@ filas e tabela
 > desempenho: pode ser standard para operações normais cobrado conforme o uso ou premium para operações com baixa latencia, cobrado independente do uso.
 >
 ### - Parametros escolhidos para criação da conta
-![](link)
+![link](https://github.com/thiagofs84/LAB-DominandoArmazenamentoAzure/blob/main/Cria%C3%A7%C3%A3o%20de%20Conta.png)
+

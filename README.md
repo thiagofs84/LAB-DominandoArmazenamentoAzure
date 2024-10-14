@@ -20,4 +20,7 @@ filas e tabela
 
 ![link3](https://github.com/thiagofs84/LAB-DominandoArmazenamentoAzure/blob/main/ScriptConexao.JPG)
 
+> Dica - Para fazer o acesso a partir de uma máquina, criar uma máquina virtual no Azure e executar nela, através do Power Shel o script apresentado.
+A conexão, funciona com porta TCP 445 (porta SMB)
+
 

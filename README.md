@@ -13,3 +13,8 @@ filas e tabela
 ### - Parametros escolhidos para criação da conta
 ![link](https://github.com/thiagofs84/LAB-DominandoArmazenamentoAzure/blob/main/Cria%C3%A7%C3%A3o%20de%20Conta.png)
 
+### - Parametros escolhidos para Compartilhamento de Arquivos
+![link]()
+
+### - Conexão
+

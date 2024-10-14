@@ -30,6 +30,8 @@ A conexão, funciona com porta TCP 445 (porta SMB)
 
 ### BANCO DE DADOS
 
-![link3]()
+![link3](https://github.com/thiagofs84/LAB-DominandoArmazenamentoAzure/blob/main/ProjetoMigracaoBD.JPG)
+
+'https://thiagofs84.blob.core.windows.net/novoteste?sp=racwdlmeop&st=2024-10-14T16:50:54Z&se=2024-10-15T00:50:54Z&spr=https&sv=2022-11-02&sr=c&sig=iY7NUf4f0mCisMO1ye%2B9xbOLoafSVgmSiOymlKMnVRI%3D
 
 

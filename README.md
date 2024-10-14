@@ -14,7 +14,10 @@ filas e tabela
 ![link](https://github.com/thiagofs84/LAB-DominandoArmazenamentoAzure/blob/main/Cria%C3%A7%C3%A3o%20de%20Conta.png)
 
 ### - Parametros escolhidos para Compartilhamento de Arquivos
-![link]()
+![link2](https://github.com/thiagofs84/LAB-DominandoArmazenamentoAzure/blob/main/NovoCompartArquivos.JPG)
 
 ### - Conexão
+
+![link3](https://github.com/thiagofs84/LAB-DominandoArmazenamentoAzure/blob/main/ScriptConexao.JPG)
+
 
